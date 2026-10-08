@@ -17,8 +17,3 @@ NFL_Bundle1/_backup_*/
 NFL_Bundle1/CHANGES_*.md
 NFL_Bundle1/earlier_iterations/
 
-# Personal documents (resume, interview prep) -- keep out of the public repo
-NFL_Bundle1/for_his_son/
-
-# The repo uses the top-level README.md; leave the bundle-level one out
-NFL_Bundle1/README.md
