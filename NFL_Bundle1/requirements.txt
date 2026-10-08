@@ -1,0 +1,6 @@
+nflreadpy
+pandas
+numpy
+reportlab
+requests
+# optional (adds a boosting model to the Spread AI): scikit-learn

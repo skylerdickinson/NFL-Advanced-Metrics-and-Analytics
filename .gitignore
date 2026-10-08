@@ -1,0 +1,24 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
+
+# Local backups and scratch copies
+NFL_Bundle1/_backup_*/
+*.bak
+*.bak_*
+*.pre_*
+
+# Working notes and old iterations (not part of the project)
+NFL_Bundle1/CHANGES_*.md
+NFL_Bundle1/earlier_iterations/
+
+# Personal documents (resume, interview prep) -- keep out of the public repo
+NFL_Bundle1/for_his_son/
+
+# The repo uses the top-level README.md; leave the bundle-level one out
+NFL_Bundle1/README.md

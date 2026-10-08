@@ -1,0 +1,11 @@
+{
+  "api_key": "",
+  "poll_seconds": 60,
+  "idle_poll_seconds": 600,
+  "pre_kick_minutes": 20,
+  "drop_pts": 8,
+  "edge_pts": 5,
+  "min_novig_pct": 10,
+  "re_alert_pts": 5,
+  "sound": true
+}
